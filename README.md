@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enaj-ciiru
+- 👋 Hi, I’m Jane Immaculate
 - 👀 I’m interested in Rick and Morty, colored socks, coding
 - 🌱 I’m currently learning web development, Python and Ruby
 - 💞️ I’m looking to collaborate on art, web-dev conversations and music playlists
