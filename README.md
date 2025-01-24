@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jane Immaculate
 - 👀 I’m interested in Rick and Morty, colored socks, coding
 - 🌱 I’m currently learning data analysis, back-end development, Python and Ruby
-- 💞️ I’m looking to collaborate on art, web-dev conversations and music playlists
+- 💞️ I’m looking to collaborate on data, web-dev conversations and music playlists
 - 📫 How to reach me @HurleyJ_ on Twitter
 
 <!---
